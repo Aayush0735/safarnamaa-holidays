@@ -7,7 +7,7 @@ const locations: MapLocation[] = [
     { 
         name: 'MUMBAI', 
         date: 'DAY 1 - DEC 26', 
-        imageUrl: './images/mumbai.jpg', 
+        imageUrl: '/images/mumbai.jpg', 
         position: { top: '55%', left: '2%' },
         pinPosition: {},
         animationDelay: '0.5s'
@@ -15,7 +15,7 @@ const locations: MapLocation[] = [
     { 
         name: 'DELHI', 
         date: 'DAY 2 - DEC 27', 
-        imageUrl: './images/delhi.jpg',
+        imageUrl: '/images/delhi.jpg',
         position: { top: '28%', left: '22%' },
         pinPosition: {},
         animationDelay: '1.5s'
@@ -23,7 +23,7 @@ const locations: MapLocation[] = [
     { 
         name: 'JIM CORBETT', 
         date: 'DAY 3 - DEC 28', 
-        imageUrl: './images/jim corbett.webp',
+        imageUrl: '/images/jim corbett.webp',
         position: { top: '55%', left: '38%' },
         pinPosition: {},
         animationDelay: '2.5s'
@@ -31,7 +31,7 @@ const locations: MapLocation[] = [
     { 
         name: 'NAINITAL', 
         date: 'DAY 4 & 5 - DEC 29/30', 
-        imageUrl: './images/nainital.jpg',
+        imageUrl: '/images/nainital.jpg',
         position: { top: '28%', left: '55%' },
         pinPosition: {},
         animationDelay: '3.5s'
@@ -39,7 +39,7 @@ const locations: MapLocation[] = [
     { 
         name: 'RISHIKESH', 
         date: 'DAY 6 & 7 - DEC 31/JAN 1', 
-        imageUrl: './images/rishikesh.jpg',
+        imageUrl: '/images/rishikesh.jpg',
         position: { top: '55%', left: '75%' },
         pinPosition: {},
         animationDelay: '4.5s'
@@ -47,7 +47,7 @@ const locations: MapLocation[] = [
     { 
         name: 'MUSSOORIE', 
         date: 'DAY 8 - JAN 2', 
-        imageUrl: './images/mussorie.jpg',
+        imageUrl: '/images/mussorie.jpg',
         position: { top: '28%', left: '88%' },
         pinPosition: {},
         animationDelay: '5.5s'

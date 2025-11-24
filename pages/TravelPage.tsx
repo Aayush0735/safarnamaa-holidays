@@ -24,16 +24,16 @@ export const destinations: Destination[] = [
         tagline: 'The Land of Gods',
         categories: 'ADVENTURE, SPIRITUAL, NATURE',
         cardImage: 'https://picsum.photos/seed/uttarakhand-card/400/400',
-        heroImage: 'images/uttarakhand/u2.jpg',
+        heroImage: './images/uttarakhand/u2.jpg',
         description: [
             'Embark on an epic 10-day journey through the majestic mountains, serene lakes, and spiritual havens of Uttarakhand. This adventure is not just a trip; it\'s an experience that will challenge your limits, soothe your soul, and leave you with memories to last a lifetime.',
             'From the wildlife of Jim Corbett to the tranquil boat rides in Nainital, and the adrenaline rush of Rishikesh, every day is a new discovery. We cap it all off with a magical New Year\'s Eve celebration that you won\'t forget.'
         ],
         gallery: [
-            'images/uttarakhand/mussorie.jpg',
-            'images/uttarakhand/nainital.jpg',
-            'images/uttarakhand/train.jpg',
-            'images/uttarakhand/uttarakhand_boat1.jpeg.jpg',
+            './images/uttarakhand/mussorie.jpg',
+            './images/uttarakhand/train.jpg',
+            './images/uttarakhand/uttarakhand_boat1.jpeg.jpg',
+            './images/uttarakhand/nainital.jpg',
         ],
         itinerary: [
             { day: '1-2', title: 'Arrival in Delhi & Transfer to Jim Corbett', description: 'Begin your journey from Mumbai/Delhi and travel to the wilderness of Jim Corbett National Park. Check into the resort and relax.' },

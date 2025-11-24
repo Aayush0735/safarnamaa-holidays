@@ -14,27 +14,27 @@ const locations = ['MUMBAI', 'DELHI', 'JIM CORBETT', 'NAINITAL', 'BHIMTAL', 'RIS
 
 const carouselData: CarouselItem[] = [
     { 
-        src: 'images/jim corbett.webp',
+        src: './images/jim corbett.webp',
         title: 'Jim Corbett Chill',
         description: 'Morning safari, relaxing at the resort with pool time, and an exciting Neon DJ Night. The wild meets the vibe.',
     },
     { 
-        src: 'images/nainital.jpg',
+        src: './images/nainital.jpg',
         title: 'Nainital Exploration',
         description: 'Scenic drives, lakeside relaxation with karaoke and a bonfire. The lakes call and the hills echo your playlist.',
     },
     { 
-        src: 'images/ganga aarti.jpg',
+        src: './images/ganga aarti.jpg',
         title: 'Ganga Aarti',
         description: 'Witness the mesmerizing Ganga Aarti at Triveni Ghat. Spiritual vibes, devotional chants, and floating lamps create magic.',
     },
     { 
-        src: 'images/rishikesh.jpg',
+        src: './images/rishikesh.jpg',
         title: 'Rishikesh Adventure',
         description: 'Experience adrenaline with river rafting, bungee jumping, and cafe hopping. Thrills, chills and café refills.',
     },
     { 
-        src: 'images/mussorie.jpg',
+        src: './images/mussorie.jpg',
         title: 'Mussoorie Magic',
         description: 'Visit Kempty Falls, Gun Hill, and scenic viewpoints to capture travel reels. The queen of hills never disappoints.',
     },
@@ -87,7 +87,7 @@ const UttarakhandTripSection: React.FC = () => {
         <section ref={sectionRef} className="relative text-white py-24 overflow-hidden">
             <div 
                 className="absolute inset-0 z-0 bg-cover bg-center"
-                style={{ backgroundImage: "url('images/uttarakhand_ropeway.jpg')" }}
+                style={{ backgroundImage: "url('./images/uttarakhand_ropeway.jpg')" }}
             ></div>
             <div className="absolute inset-0 z-0 bg-black/60"></div>
             <Snowfall />

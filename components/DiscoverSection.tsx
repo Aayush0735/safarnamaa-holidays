@@ -47,7 +47,7 @@ const locations: MapLocation[] = [
     { 
         name: 'MUSSOORIE', 
         date: 'DAY 8 - JAN 2', 
-        imageUrl: '/images/mussorie.jpg',
+        imageUrl: '/images/uttarakhand/mussorie.jpg',
         position: { top: '28%', left: '88%' },
         pinPosition: {},
         animationDelay: '5.5s'

@@ -2,11 +2,11 @@ import React from 'react';
 import useScrollAnimation from '../hooks/useScrollAnimation';
 
 const travelEssentials = [
-    { name: 'Trekking Backpack', src: 'https://picsum.photos/seed/travel-backpack-mountains/400/500' },
-    { name: 'Digital Camera', src: 'https://picsum.photos/seed/camera-photography-lens/400/500' },
-    { name: 'UV Sunglasses', src: 'https://picsum.photos/seed/sunglasses-fashion/400/500' },
-    { name: 'Hiking Boots', src: 'https://picsum.photos/seed/hiking-boots-shoes/400/500' },
-    { name: 'Travel Journal', src: 'https://picsum.photos/seed/notebook-journal-pen/400/500' },
+    { name: 'Trekking Backpack', src: '/images/backpack.jpg' },
+    { name: 'Digital Camera', src: '/images/camera.jpg' },
+    { name: 'UV Sunglasses', src: '/images/sunglasses.jpg' },
+    { name: 'Hiking Boots', src: '/images/boots.jpg' },
+    { name: 'Travel Journal', src: '/images/traveljourney.jpg' },
 ];
 
 const TravelEssentialsSection: React.FC = () => {

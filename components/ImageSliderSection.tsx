@@ -4,19 +4,23 @@ import { ChevronLeftIcon, ChevronRightIcon } from './icons';
 
 const slides: Slide[] = [
     {
-        imageUrl: '/images/uttarkahnd_ice.jpg',
+        imageUrl: '/images/s1.avif',
         caption: 'HOW TO SPEND ONE WEEK ON THE COAST?',
     },
+    {
+        imageUrl: '/images/thejourney.jpg',
+        caption: 'JOURNEY THROUGH THE MYSTICAL LAND',
+    },
         {
-        imageUrl: '/images/udaipur palace.jpg',
+        imageUrl: '/images/j1.avif',
         caption: 'GET A LOOK OF THE DESERT LIFE IN RAJASTHAN',
     },
 {
-        imageUrl: '/images/uttarakhand_ropeway.jpg',
+        imageUrl: '/images/u4.avif',
         caption: 'A JOURNEY THROUGH THE MIGHTY HIMALAYAS',
     },
      {
-        imageUrl: '/images/Rajasthan_camel.jpg',
+        imageUrl: '/images/p1.avif',
         caption: 'DISCOVER THE ROYAL HERITAGE OF RAJASTHAN',
     },
 ];

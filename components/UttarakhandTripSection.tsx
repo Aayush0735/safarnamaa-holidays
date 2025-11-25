@@ -34,7 +34,7 @@ const carouselData: CarouselItem[] = [
         description: 'Experience adrenaline with river rafting, bungee jumping, and cafe hopping. Thrills, chills and café refills.',
     },
     { 
-        src: '/images/mussorie.jpg',
+        src: '/images/uttarakhand/mussorie.jpg',
         title: 'Mussoorie Magic',
         description: 'Visit Kempty Falls, Gun Hill, and scenic viewpoints to capture travel reels. The queen of hills never disappoints.',
     },

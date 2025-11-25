@@ -23,7 +23,7 @@ export const destinations: Destination[] = [
         name: 'Uttarakhand',
         tagline: 'The Land of Gods',
         categories: 'ADVENTURE, SPIRITUAL, NATURE',
-        cardImage: 'https://picsum.photos/seed/uttarakhand-card/400/400',
+        cardImage: '/images/c1.png',
         heroImage: '/images/uttarakhand/u2.jpg',
         description: [
             'Embark on an epic 10-day journey through the majestic mountains, serene lakes, and spiritual havens of Uttarakhand. This adventure is not just a trip; it\'s an experience that will challenge your limits, soothe your soul, and leave you with memories to last a lifetime.',
@@ -55,7 +55,7 @@ export const destinations: Destination[] = [
         name: 'Rajasthan',
         tagline: 'The Land of Kings',
         categories: 'HERITAGE, CULTURE, DESERT',
-        cardImage: 'https://picsum.photos/seed/rajasthan-card/400/400',
+        cardImage: '/images/c2.jpg',
         heroImage: 'https://picsum.photos/seed/rajasthan-hero/1600/600',
         description: [
             'Experience the vibrant culture and royal history of Rajasthan. From majestic forts to colorful markets, this tour is a feast for the senses.'
@@ -69,7 +69,7 @@ export const destinations: Destination[] = [
         name: 'Kerala',
         tagline: 'God\'s Own Country',
         categories: 'NATURE, BEACHES, WELLNESS',
-        cardImage: 'https://picsum.photos/seed/kerala-card/400/400',
+        cardImage: '/images/kerala.jpg',
         heroImage: 'https://picsum.photos/seed/kerala-hero/1600/600',
         description: [
             'Relax and rejuvenate in the serene backwaters of Kerala. Enjoy houseboat stays, Ayurvedic treatments, and pristine beaches.'

@@ -53,7 +53,7 @@ const ContentSection: React.FC = () => {
                         {/* Main Image */}
                         <div className="absolute top-0 right-0 w-[85%] h-[80%] z-10 transform transition-transform hover:scale-[1.01] duration-700 ease-out">
                              <img 
-                                src="https://picsum.photos/seed/travel-mountains-himalaya-snow/600/700" 
+                                src="/images/travel.jpg" 
                                 alt="Himalayan Mountains Landscape" 
                                 className="w-full h-full object-cover rounded-sm shadow-2xl" 
                             />
@@ -63,8 +63,8 @@ const ContentSection: React.FC = () => {
                         {/* Secondary Image */}
                         <div className="absolute bottom-0 left-0 w-[55%] h-[55%] z-20 transform translate-x-2 -translate-y-6 border-8 border-white shadow-xl transition-transform hover:scale-[1.03] duration-500">
                             <img 
-                                src="https://picsum.photos/seed/indian-culture-dance/400/500" 
-                                alt="Cultural Dance" 
+                                src="/images/roadtrip.jpg" 
+                                alt="Road Trip" 
                                 className="w-full h-full object-cover" 
                             />
                         </div>
